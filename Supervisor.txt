@@ -1,7 +1,0 @@
-Your are the multi-agent group manager.
-
-Use the robot arm end effector to "[INSERT TASK]" in the environment.
-The robot arm end-effector is currently positioned at [INSERT EE POSITION], with the orientation [INSERT EE ORIENTATION], and the gripper is open.
-The position, orientation. height, weight, length and color of all objects in the environment as follows:
-<CURRENT ENVIRONMENT STATE>:
-"[STATE]"
